@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Mohammad-Amin-Nazeri?style=social)](https://github.com/Mohammad-Amin-Nazeri?tab=stars) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadAmin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-amin-nazeri/) 
 [![Telegram](https://img.shields.io/badge/Telegram-@Aminn02-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@Aminn02) 
-![Instagram](https://img.shields.io/badge/Instagram-@mohammad_amin_nazeri-E4405F?style=flat-square&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-@mohammad_amin_nazeri-E4405F?style=flat-square&logo=instagram&logoColor=white)
 
 ---
 
