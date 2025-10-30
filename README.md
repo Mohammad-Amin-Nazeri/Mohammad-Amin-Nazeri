@@ -28,7 +28,7 @@ I love exploring new technologies to **optimize performance, enhance reliability
 
 ## 💼 Projects
 
-### 🚀 Website Builder Platform
+### 🚀 Website Builder Platform with Admin and Client Panels
 *Aug 2025 – Present | Sepidar Danesh*  
 - **Admin & client panels** with full-featured website management.  
 - Client-friendly interface for **customizing websites & menus**.  
