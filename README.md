@@ -12,7 +12,7 @@
 I'm a **Backend & .NET Developer** passionate about building **robust, scalable, and maintainable applications**.  
 I love exploring new technologies to **optimize performance, enhance reliability, and create intuitive UX**.  
 
-💡 **Focus Areas:** .NET, C#, ASP.NET, WPF, SQL Server, .NET MAUI
+💡 **Focus Areas:** .NET, C#, ASP.NET, WPF, SQL Server
 
 ---
 
