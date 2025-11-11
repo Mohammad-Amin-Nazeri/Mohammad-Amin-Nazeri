@@ -16,39 +16,6 @@ I love exploring new technologies to **optimize performance, enhance reliability
 
 ---
 
-## 🔭 Current Role
-**.NET Developer** | Sepidar Danesh (Atrisa Comprehensive Financial Systems) — Full-time, Remote  
-*Jun 2025 – Present*  
-
-- Designing and developing **web & desktop applications** with modern UI/UX.  
-- Ensuring **high performance, scalability, and maintainability**.  
-- Tech stack: ASP.NET Core, C#, WPF, SQL Server, .NET MAUI.
-
----
-
-## 💼 Projects
-
-### 🚀 Website Builder Platform with Admin and Client Panels
-*Aug 2025 – Present | Sepidar Danesh*  
-- **Admin & client panels** with full-featured website management.  
-- Client-friendly interface for **customizing websites & menus**.  
-- **Technologies:** ASP.NET MVC, C#, SQL Server, JavaScript, HTML/CSS  
-- Highlights: Scalable, modern UI/UX, highly maintainable.
-
-### 🌐 Tecnoblog – Tech & IT Blog
-*Oct 2024*  
-- Responsive **tech blog** with tutorials, news, and reviews.  
-- Full-stack development covering front-end, back-end, and design.  
-- **Technologies:** ASP.NET, C#, SQL Server, JavaScript, HTML/CSS
-
-### 📱 Fratak Translator – Mobile App
-*Sep 2024*  
-- **Cross-platform translation app** built with .NET MAUI.  
-- Fast, accurate translation using API integrations.  
-- **Technologies:** C#, .NET MAUI (iOS & Android)
-
----
-
 ## 🛠️ Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-239120?style=for-the-badge&logo=asp.net&logoColor=white)
@@ -70,10 +37,6 @@ Let's **build something amazing together**!
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Amin-Nazeri&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Amin-Nazeri&layout=compact&theme=radical&hide_border=true)
 
----
 
 ✨ **Let's connect and create innovative .NET solutions together!**
