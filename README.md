@@ -29,7 +29,6 @@ I specialize in **API development, desktop apps, database optimization**, and de
 - RESTful API development & Web Services  
 - Writing clean, maintainable, and performant code  
 - SQL Server & database design & optimization  
-- WPF & .NET MAUI for desktop & cross-platform apps  
 - Continuous learning and improving backend ecosystems  
 
 ---
