@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#00D4FF">Mohammad Amin Nazeri</span>
+# 👋 Hi, I'm <span style="color:#00D4FF">Khers Finy</span>
 
 <div align="center" style="margin-top:10px">
 <a href="https://www.linkedin.com/in/mohammad-amin-nazeri/">
