@@ -1,72 +1,139 @@
+<div align="center">
+
+# Mohammad Amin Nazeri
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;ASP.NET+Core+Engineer;.NET+Enthusiast;Clean+Architecture+Advocate;CQRS+%7C+DDD+Practitioner" />
+
+---
+
+### Backend Developer | .NET | ASP.NET Core | System Design
+
+</div>
+
+---
+
+## 🧠 About Me
+
+Backend developer focused on building **clean**, **scalable**, and **maintainable** systems using the .NET ecosystem.
+
+I specialize in designing backend architectures that:
+
+* Scale with business growth
+* Remain maintainable over time
+* Deliver measurable performance
+* Follow real-world engineering principles
+
+My development mindset is based on:
+
+✔ Clean Architecture
+✔ Domain-Driven Design (DDD)
+✔ CQRS Pattern
+✔ RESTful API Design
+✔ Performance-Oriented Data Access
+
+Currently deepening my expertise in:
+
+* Distributed Systems
+* High-Performance Application Design
+* Backend Architecture Engineering
+
+---
+
+## ⚙️ Tech Stack
+
+### 🟣 Backend
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-00599C?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
+
+### 🧩 Architecture & Patterns
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-0A0A0A?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-2E9EF7?style=for-the-badge)
+![MediatR](https://img.shields.io/badge/MediatR-FF6C37?style=for-the-badge)
+
+### 🗄️ Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### 🔧 Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
+![Dapper](https://img.shields.io/badge/Dapper-000000?style=for-the-badge)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
+
+---
+
+
+## 📦 Featured Projects
+
+### 🛒 Marketplace Platform
+
+Enterprise-level Marketplace Platform built with:
+
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* CQRS & MediatR
+* EF Core, Dapper, ADO.NET
+* Redis Caching
+* MongoDB Integration
+* Centralized Error Handling
+* Docker Containerization
+* Razor Pages Admin Panel
+* Unit Testing with xUnit
+
+---
+
+### 🌐 Website Builder Platform
+
+Platform with separate:
+
+* Admin Panel
+* Client Panel
+
+Built using:
+
+* ASP.NET MVC
+* SQL Server
+* HTML/CSS
+* JavaScript
+
+Focused on:
+
+* Scalability
+* Usability
+* Modern UI/UX
+
+---
+
+### 📱 Fratak Translator (.NET MAUI)
+
+* Multi-language Translation
+* API Integration
+* Cross-platform (Android & iOS)
+* Clean UI
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5838F5,100:00D4FF&height=250&section=header&text=Mohammad%20Amin%20Nazeri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
-<div align="center">
+---
 
-# 👋 Hi, I'm <span style="color:#00D4FF">Mohammad Amin Nazeri</span>
+## 📫 Connect With Me
 
-<div align="center" style="margin-top:10px">
-<a href="https://www.linkedin.com/in/mohammad-amin-nazeri/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://t.me/Aminn02">
-  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/mohammad_amin_nazeri/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</div>
-</div>
+* 💼 LinkedIn: www.linkedin.com/in/mohammad-amin-nazeri
 
 ---
 
-## 👨‍💻 About Me
-I’m a **.NET Backend Developer** passionate about building **high-performance**, **scalable**, and **clean-architecture** applications.  
-I specialize in **API development, desktop apps, database optimization**, and designing maintainable backend systems using modern .NET technologies.
-
-✨ **Focus Areas**:  
-- RESTful API development & Web Services  
-- Writing clean, maintainable, and performant code  
-- SQL Server & database design & optimization  
-- Continuous learning and improving backend ecosystems  
-
----
-
-## 🛠️ Skills
-<div align="center">
-
-<img src="https://img.shields.io/badge/ASP.NET%20Web%20API-6828FF?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-6B3FF5?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-
-</div>
-
----
-
-
-
-## 📫 Contact
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-nazrymhmdamyn85@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazrymhmdamyn85@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-@Aminn02-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aminn02)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadAmin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nazeri/)  
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:5838F5&height=180&section=footer" />
-</p>
+⭐ Backend Developer passionate about building scalable .NET systems.
