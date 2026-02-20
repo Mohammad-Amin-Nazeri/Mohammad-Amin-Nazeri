@@ -1,98 +1,90 @@
-<h1 align="center">Mohammad Amin Nazeri</h1>
-<h3 align="center">Backend Developer | .NET | ASP.NET Core</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammad%20Amin%20Nazeri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3000&pause=1000&color=3AA6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;.NET+Engineer;ASP.NET+Core;Clean+Architecture+Advocate;CQRS+%7C+DDD;Scalable+Backend+Systems" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Amin_Nazeri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nazrymhmdamyn85@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-nazrymhmdamyn85%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Aminn02">
+  <img src="https://img.shields.io/badge/Telegram-Aminn02-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+## 🧠 Engineering Mindset
+
+Backend developer focused on building **clean**, **scalable**, and **maintainable** systems using the .NET ecosystem.
+
+I prioritize:
+
+* Architectural Clarity
+* Performance Optimization
+* Maintainable Codebases
+* Long-Term Reliability
+* Scalable Backend Solutions
+
+My development philosophy is based on real-world engineering practices such as:
+
+✔ Clean Architecture
+✔ Domain-Driven Design (DDD)
+✔ CQRS Pattern
+✔ RESTful API Design
+✔ Separation of Concerns
+✔ Performance-Oriented Data Access
+✔ Structured Logging & Error Handling
+
+---
+
+## ⚙️ Technology Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Amin%20Nazeri-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nazrymhmdamyn85@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nazrymhmdamyn85%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Aminn02">
-    <img src="https://img.shields.io/badge/Telegram-Aminn02-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,docker,mongodb,redis,js,html,css" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediatR-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DDD-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## About Me
-
-I am a backend developer focused on building clean, scalable, and maintainable systems using the .NET ecosystem.
-
-My experience includes developing real-world applications with C#, ASP.NET Core, and SQL Server, where I prioritize architectural clarity, performance, and long-term reliability.
-
-I approach software engineering with a strong emphasis on problem-solving, system design, and writing code that is both technically sound and easy to maintain.
-
-I enjoy working with clean architecture principles, designing efficient data models, and creating backend solutions that can scale and evolve over time.
-
-Although early in my career, I have already gained hands-on experience through professional projects, continuous learning, and collaboration with experienced developers.
-
-I am committed to deepening my expertise in backend architecture, distributed systems, and high-performance application design.
-
-My goal is to contribute to impactful .NET projects, grow within strong engineering teams, and build software that delivers real, measurable value.
-
----
-
-## Core Competencies
-
-* Backend System Design
-* RESTful API Development
-* Clean Architecture
-* Domain-Driven Design (DDD)
-* CQRS Pattern
-* Performance-Oriented Data Access
-* Maintainable Codebase Design
-* Structured Logging
-* Error Handling Strategies
-* Object-Oriented Programming (OOP)
-
----
-
-## Technology Stack
-
-**Backend Development**
-
-* ASP.NET Core
-* ASP.NET MVC
-* Web API
-* C#
-* .NET
-
-**Architecture & Patterns**
-
-* Clean Architecture
-* Domain-Driven Design (DDD)
-* CQRS
-* MediatR
-
-**Data & Persistence**
-
-* Microsoft SQL Server
-* Entity Framework Core
-* Dapper
-* ADO.NET
-* MongoDB
-* Redis
-
-**Tools & Testing**
-
-* Docker
-* xUnit
-* Logging
-
-**Additional Technologies**
-
-* Razor Pages
-* WPF
-* .NET MAUI
-* JavaScript
-* HTML / CSS
-
----
-
-## GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amin-Nazeri&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Amin-Nazeri&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amin-Nazeri&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Amin-Nazeri&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mohammad-Amin-Nazeri&label=Profile+Views&color=3AA6FF&style=for-the-badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
