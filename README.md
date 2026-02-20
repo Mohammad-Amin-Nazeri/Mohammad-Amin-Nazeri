@@ -1,139 +1,95 @@
 <div align="center">
 
-# Mohammad Amin Nazeri
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammad%20Amin%20Nazeri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;ASP.NET+Core+Engineer;.NET+Enthusiast;Clean+Architecture+Advocate;CQRS+%7C+DDD+Practitioner" />
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=1000&color=3AA6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;ASP.NET+Core+Engineer;.NET+Enthusiast;Clean+Architecture+Advocate;CQRS+%7C+DDD+Practitioner;Scalable+System+Designer" />
 
-### Backend Developer | .NET | ASP.NET Core | System Design
+<br/><br/>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-Message_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineering Mindset
 
-Backend developer focused on building **clean**, **scalable**, and **maintainable** systems using the .NET ecosystem.
+Backend developer focused on building **clean**, **scalable**, and **maintainable** systems using the **.NET ecosystem**.
 
-I specialize in designing backend architectures that:
+I approach software engineering with strong emphasis on:
 
-* Scale with business growth
-* Remain maintainable over time
-* Deliver measurable performance
-* Follow real-world engineering principles
+* System Design
+* Architectural Clarity
+* Performance Optimization
+* Maintainable Codebases
+* Long-Term Reliability
 
-My development mindset is based on:
+My development philosophy revolves around:
 
 ✔ Clean Architecture
 ✔ Domain-Driven Design (DDD)
 ✔ CQRS Pattern
 ✔ RESTful API Design
+✔ Separation of Concerns
 ✔ Performance-Oriented Data Access
 
-Currently deepening my expertise in:
-
-* Distributed Systems
-* High-Performance Application Design
-* Backend Architecture Engineering
-
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Core Tech Stack
 
-### 🟣 Backend
+<p align="center">
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API-00599C?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet,cs,redis,mongodb,docker,js,html,css" />
 
-### 🧩 Architecture & Patterns
+</p>
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-0A0A0A?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-2E9EF7?style=for-the-badge)
-![MediatR](https://img.shields.io/badge/MediatR-FF6C37?style=for-the-badge)
+<p align="center">
 
-### 🗄️ Databases
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediatR-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DDD-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge"/>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### 🔧 Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
-![Dapper](https://img.shields.io/badge/Dapper-000000?style=for-the-badge)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
-
----
-
-
-## 📦 Featured Projects
-
-### 🛒 Marketplace Platform
-
-Enterprise-level Marketplace Platform built with:
-
-* Clean Architecture
-* Domain-Driven Design (DDD)
-* CQRS & MediatR
-* EF Core, Dapper, ADO.NET
-* Redis Caching
-* MongoDB Integration
-* Centralized Error Handling
-* Docker Containerization
-* Razor Pages Admin Panel
-* Unit Testing with xUnit
-
----
-
-### 🌐 Website Builder Platform
-
-Platform with separate:
-
-* Admin Panel
-* Client Panel
-
-Built using:
-
-* ASP.NET MVC
-* SQL Server
-* HTML/CSS
-* JavaScript
-
-Focused on:
-
-* Scalability
-* Usability
-* Modern UI/UX
-
----
-
-### 📱 Fratak Translator (.NET MAUI)
-
-* Multi-language Translation
-* API Integration
-* Cross-platform (Android & iOS)
-* Clean UI
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+<p align="center">
 
-* 💼 LinkedIn: www.linkedin.com/in/mohammad-amin-nazeri
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=3AA6FF&style=for-the-badge" />
 
----
+</p>
 
-⭐ Backend Developer passionate about building scalable .NET systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
