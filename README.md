@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammad%20Amin%20Nazeri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:2C5364&height=220&section=header&text=Mohammad%20Amin%20Nazeri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=1000&color=3AA6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;ASP.NET+Core+Engineer;.NET+Enthusiast;Clean+Architecture+Advocate;CQRS+%7C+DDD+Practitioner;Scalable+System+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Engineer;.NET+System+Designer;Clean+Architecture+Advocate;CQRS+%7C+DDD+Practitioner;Performance-Oriented+Backend+Development" />
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Amin_Nazeri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:nazrymhmdamyn85@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-nazrymhmdamyn85%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-  <img src="https://img.shields.io/badge/Telegram-Message_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/Aminn02">
+  <img src="https://img.shields.io/badge/Telegram-Aminn02-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -26,19 +26,17 @@
 
 ---
 
-## 🧠 Engineering Mindset
+## 🧠 Backend Engineering Philosophy
 
-Backend developer focused on building **clean**, **scalable**, and **maintainable** systems using the **.NET ecosystem**.
+I build backend systems with a strong focus on:
 
-I approach software engineering with strong emphasis on:
-
-* System Design
 * Architectural Clarity
-* Performance Optimization
-* Maintainable Codebases
+* Maintainability
+* Scalability
+* Performance
 * Long-Term Reliability
 
-My development philosophy revolves around:
+My development approach is grounded in real-world engineering practices such as:
 
 ✔ Clean Architecture
 ✔ Domain-Driven Design (DDD)
@@ -46,21 +44,22 @@ My development philosophy revolves around:
 ✔ RESTful API Design
 ✔ Separation of Concerns
 ✔ Performance-Oriented Data Access
+✔ Structured Logging & Error Handling
+
+I aim to design backend systems that can scale with business growth while remaining easy to evolve and maintain over time.
 
 ---
 
-## ⚙️ Core Tech Stack
+## ⚙️ Core Technology Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,redis,mongodb,docker,js,html,css" />
-
+<img src="https://skillicons.dev/icons?i=dotnet,cs,docker,mongodb,redis,js,html,css" />
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MediatR-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CQRS-2E9EF7?style=for-the-badge"/>
@@ -78,9 +77,9 @@ My development philosophy revolves around:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amin-Nazer&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Amin-Nazeri&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -88,8 +87,8 @@ My development philosophy revolves around:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=3AA6FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=5BCDEC&style=for-the-badge" />
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:243B55,100:141E30&height=140&section=footer"/>
