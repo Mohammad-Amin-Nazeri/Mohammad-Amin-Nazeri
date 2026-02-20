@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 Engineering Mindset
+## 🧠 About Me
 
 Backend developer focused on building **clean**, scalable, and maintainable systems using the .NET ecosystem.
 
@@ -56,13 +56,6 @@ I emphasize:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Amin-Nazeri&theme=algolia&no-frame=true&row=1&margin-w=10"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -79,15 +72,6 @@ I emphasize:
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Amin-Nazeri&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mohammad-Amin-Nazeri/Mohammad-Amin-Nazeri/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mohammad-Amin-Nazeri&label=Profile+Views&color=5BCDEC&style=for-the-badge"/>
