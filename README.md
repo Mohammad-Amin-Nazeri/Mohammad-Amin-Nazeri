@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammad%20Amin%20Nazeri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:2C5364&height=220&section=header&text=Mohammad%20Amin%20Nazeri&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3000&pause=1000&color=3AA6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;.NET+Engineer;ASP.NET+Core;Clean+Architecture+Advocate;CQRS+%7C+DDD;Scalable+Backend+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=5BCDEC&center=true&vCenter=true&width=700&lines=Backend+Developer;.NET+Engineer;ASP.NET+Core+Specialist;Clean+Architecture+Advocate;CQRS+%7C+DDD+Practitioner;High+Performance+Backend+Systems" />
 
 <br/><br/>
 
@@ -28,17 +28,15 @@
 
 ## 🧠 Engineering Mindset
 
-Backend developer focused on building **clean**, **scalable**, and **maintainable** systems using the .NET ecosystem.
+Backend developer focused on building **clean**, scalable, and maintainable systems using the .NET ecosystem.
 
-I prioritize:
+I emphasize:
 
 * Architectural Clarity
-* Performance Optimization
-* Maintainable Codebases
+* Maintainability
+* Performance
 * Long-Term Reliability
-* Scalable Backend Solutions
-
-My development philosophy is based on real-world engineering practices such as:
+* Scalable Backend Design
 
 ✔ Clean Architecture
 ✔ Domain-Driven Design (DDD)
@@ -53,22 +51,23 @@ My development philosophy is based on real-world engineering practices such as:
 ## ⚙️ Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,docker,mongodb,redis,js,html,css" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,docker,mongodb,redis,js,html,css&perline=8" />
 </p>
 
+---
+
+## 🏆 GitHub Achievements
+
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Amin-Nazeri&theme=algolia&no-frame=true&row=1&margin-w=10"/>
+</p>
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MediatR-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CQRS-2E9EF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DDD-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge"/>
+---
 
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Amin-Nazeri&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -76,15 +75,22 @@ My development philosophy is based on real-world engineering practices such as:
 ## 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amin-Nazeri&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Amin-Nazeri&theme=tokyonight&hide_border=true"/>
-
 </p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mohammad-Amin-Nazeri&label=Profile+Views&color=3AA6FF&style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/Mohammad-Amin-Nazeri/Mohammad-Amin-Nazeri/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mohammad-Amin-Nazeri&label=Profile+Views&color=5BCDEC&style=for-the-badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:243B55,100:141E30&height=140&section=footer"/>
