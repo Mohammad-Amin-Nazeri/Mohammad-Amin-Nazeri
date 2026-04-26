@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=5BCDEC&center=true&vCenter=true&width=700&lines=Backend+Developer;.NET+Engineer;ASP.NET+Core+Specialist;Clean+Architecture+Advocate;CQRS+%7C+DDD+Practitioner;High+Performance+Backend+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=5BCDEC&center=true&vCenter=true&width=700&lines=Backend+Developer;.NET;ASP.NET+Core;" />
 
 <br/><br/>
 
@@ -25,27 +25,11 @@
 </div>
 
 ---
+Backend Developer in . NET and ASP.NET Core , experienced in building web APIs .
 
-## 🧠 About Me
+Familiar with modern software design principles for efficient systems .
 
-Backend developer focused on building **clean**, scalable, and maintainable systems using the .NET ecosystem.
-
-I emphasize:
-
-* Architectural Clarity
-* Maintainability
-* Performance
-* Long-Term Reliability
-* Scalable Backend Design
-
-✔ Clean Architecture
-✔ Domain-Driven Design (DDD)
-✔ CQRS Pattern
-✔ RESTful API Design
-✔ Separation of Concerns
-✔ Performance-Oriented Data Access
-✔ Structured Logging & Error Handling
-
+Eager to learn and grow in a team environment
 ---
 
 ## ⚙️ Technology Stack
@@ -56,21 +40,6 @@ I emphasize:
 
 ---
 
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Amin-Nazeri&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amin-Nazeri&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Amin-Nazeri&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 <p align="center">
