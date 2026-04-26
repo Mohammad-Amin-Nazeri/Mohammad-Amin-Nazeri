@@ -25,11 +25,12 @@
 </div>
 
 ---
-Backend Developer in . NET and ASP.NET Core , experienced in building web APIs .
+<div>
+  Backend Developer in . NET and ASP.NET Core , experienced in building web APIs .
 
 Familiar with modern software design principles for efficient systems .
-
 Eager to learn and grow in a team environment
+</div>
 ---
 
 ## ⚙️ Technology Stack
