@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amin Nazeri</h1>
-
-- 🔭 Back-end Developer with a passion for building stable, scalable, and clean systems. Currently focusing on **.NET Projects**.
-
-- 👯 I’m looking to collaborate on challenging **.NET Projects** that push the boundaries of technology.
-
-- 📫 How to reach me: **nazrymhmdamyn85@gmail.com** or connect with me on LinkedIn.
-
-<h3 align="center">Connect with me:</h3>
 <div align="center">
 
-<div align="center">
+# Hi 👋, I'm Mohammad Amin Nazeri
+
+Back-end Developer with a passion for building stable, scalable, and clean systems. Currently focusing on **.NET Projects**.
+
+I’m looking to collaborate on challenging **.NET Projects** that push the boundaries of technology.
+
+How to reach me: **nazrymhmdamyn85@gmail.com** or connect with me on LinkedIn.
+
+<br>
+
+### Connect with me
 
 <a href="mailto:nazrymhmdamyn85@gmail.com">
   <img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
