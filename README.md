@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  🔭 Currently focusing on <strong>.NET Projects</strong><br>
-  👯 Open to challenging <strong>.NET Projects</strong><br>
+  🔭 Currently focusing on <strong>.NET Projects</strong> &nbsp;·&nbsp; 👯 Open to challenging <strong>.NET Projects</strong><br>
   📫 <strong>nazrymhmdamyn85@gmail.com</strong>
 </p>
 
@@ -14,15 +13,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://github.com/Mohammad-Amin-Nazeri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
   <a href="https://t.me/Aminn02">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>&nbsp;
   <a href="https://www.instagram.com/mohammad_amin_nazeri/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
