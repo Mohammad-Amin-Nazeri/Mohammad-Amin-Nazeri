@@ -34,6 +34,5 @@ Open to collaborating on challenging **.NET Projects**.
 
 <br>
 
-<sub>✉&nbsp; <a href="mailto:nazrymhmdamyn85@gmail.com">nazrymhmdamyn85@gmail.com</a></sub>
 
 </div>
