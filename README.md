@@ -12,6 +12,9 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
+  <a href="mailto:nazrymhmdamyn85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-444444?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
