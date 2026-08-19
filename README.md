@@ -2,11 +2,9 @@
 
 # Hi 👋, I'm Mohammad Amin Nazeri
 
-Back-end Developer with a passion for building stable, scalable, and clean systems. Currently focusing on **.NET Projects**.
+Back-end Developer focused on building stable, scalable, and clean systems with **.NET**.
 
-I’m looking to collaborate on challenging **.NET Projects** that push the boundaries of technology.
-
-How to reach me: **nazrymhmdamyn85@gmail.com** or connect with me on LinkedIn.
+I’m open to collaborating on challenging **.NET Projects** that push the boundaries of technology.
 
 <br>
 
@@ -34,6 +32,6 @@ How to reach me: **nazrymhmdamyn85@gmail.com** or connect with me on LinkedIn.
 
 <br><br>
 
-<sub>📫 nazrymhmdamyn85@gmail.com</sub>
+<a href="mailto:nazrymhmdamyn85@gmail.com">nazrymhmdamyn85@gmail.com</a>
 
 </div>
