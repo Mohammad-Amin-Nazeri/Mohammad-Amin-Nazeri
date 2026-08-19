@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mohammad Amin Nazeri
 
-**Back-end Developer · .NET**
+**Backend Software Engineer | .NET**
 
 Building stable, scalable, and clean systems.
 
