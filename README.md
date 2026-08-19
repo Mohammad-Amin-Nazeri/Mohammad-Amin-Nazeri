@@ -1,25 +1,35 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amin Nazeri</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Back-end Developer</strong> with a passion for building stable, scalable, and clean systems.
-</p>
+<h1>Hi 👋, I'm Mohammad Amin Nazeri</h1>
 
-<ul>
-  <li>🔭 Back-end Developer with a passion for building stable, scalable, and clean systems. Currently focusing on <strong>.NET Projects</strong>.</li>
-  <li>👯 I’m looking to collaborate on challenging <strong>.NET Projects</strong> that push the boundaries of technology.</li>
-  <li>📫 How to reach me: <strong>nazrymhmdamyn85@gmail.com</strong> or connect with me on LinkedIn.</li>
-</ul>
+<p><strong>Back-end Developer</strong></p>
 
-<h3 align="center">Connect with me</h3>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/Aminn02">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/mohammad_amin_nazeri/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<br>
+
+🔭 Back-end Developer with a passion for building stable, scalable, and clean systems. Currently focusing on **.NET Projects**.
+
+👯 I’m looking to collaborate on challenging **.NET Projects** that push the boundaries of technology.
+
+📫 How to reach me: **nazrymhmdamyn85@gmail.com** or connect with me on LinkedIn.
+
+<br>
+
+<div align="center">
+
+<h3>Connect with me</h3>
+
+<a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://t.me/Aminn02">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/mohammad_amin_nazeri/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
