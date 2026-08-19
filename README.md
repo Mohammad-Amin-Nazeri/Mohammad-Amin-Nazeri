@@ -10,29 +10,44 @@ How to reach me: **nazrymhmdamyn85@gmail.com** or connect with me on LinkedIn.
 
 <br>
 
-### Connect with me
+## Connect with me
 
-<a href="mailto:nazrymhmdamyn85@gmail.com">
-  <img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/Mohammad-Amin-Nazeri">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://t.me/Aminn02">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/mohammad_amin_nazeri/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="mailto:nazrymhmdamyn85@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32" alt="Email" />
+        <br><sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
+        <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn" />
+        <br><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://github.com/Mohammad-Amin-Nazeri">
+        <img src="https://img.icons8.com/fluency/48/github.png" width="32" alt="GitHub" />
+        <br><sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://t.me/Aminn02">
+        <img src="https://img.icons8.com/color/48/telegram-app.png" width="32" alt="Telegram" />
+        <br><sub><b>Telegram</b></sub>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.instagram.com/mohammad_amin_nazeri/">
+        <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="32" alt="Instagram" />
+        <br><sub><b>Instagram</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 <sub>📫 nazrymhmdamyn85@gmail.com</sub>
 
