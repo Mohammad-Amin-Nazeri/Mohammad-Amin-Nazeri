@@ -2,106 +2,77 @@
 
 # Mohammad Amin Nazeri
 
-### .NET Backend Developer · Software Architecture · Application Design
+### .NET Backend Developer
 
-Building backend systems with a focus on clear boundaries, maintainable architecture, messaging, and reusable infrastructure.
+Building clean, maintainable backend systems with **.NET**, modern architecture, and distributed technologies.
 
-<a href="#english"><strong>🇬🇧 English</strong></a> &nbsp;•&nbsp; <a href="#فارسی"><strong>🇮🇷 فارسی</strong></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohammad-Amin-Nazeri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nazeri/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Aminn02)
 
 </div>
 
 ---
 
-<a id="english"></a>
+## 🧰 Tech Stack
 
-# 🇬🇧 English
+<div align="center">
 
-## About
+### Backend
 
-I am **Mohammad Amin Nazeri**, a .NET backend developer focused on building structured, maintainable software systems.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-My projects span application architecture, modular systems, e-commerce platforms, messaging, notification infrastructure, desktop applications, and cross-platform .NET development.
+### Architecture & Patterns
 
-## Engineering Focus
+![Microservices](https://img.shields.io/badge/Microservices-111827?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-111827?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-111827?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge)
+![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-111827?style=for-the-badge)
+![MediatR](https://img.shields.io/badge/MediatR-111827?style=for-the-badge)
 
-- ASP.NET Core and .NET backend development
-- Modular and layered architecture
-- Domain-oriented application design
-- CQRS and MediatR
-- Messaging and event-driven communication
-- RabbitMQ
-- SQL Server and Entity Framework Core
-- Reusable libraries and public APIs
-- Testing and CI/CD
+### Databases & Messaging
 
-## Selected Projects
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-| Project | What it represents |
+### Tools & Platform
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
+
+</div>
+
+## 🎯 Focus
+
+Backend engineering • Software Architecture • Distributed Systems • Messaging • Reusable Libraries • Testing
+
+## 🚀 Featured Work
+
+| Project | Focus |
 |---|---|
-| **Notification_Services_Pattern** | Reusable Email/SMS infrastructure, provider architecture, NuGet packaging and CI/CD |
-| **DevLearn-Web** | Modular Monolith, DDD-oriented boundaries, CQRS, Facades and EventBus |
-| **Varaqestan E-Commerce** | API + Razor Pages architecture for a complete e-commerce system |
-| **TecnoBlog** | Layered ASP.NET Core content platform with authentication and publishing workflows |
-| **Clinic Reservation** | Patient, reservation, authentication and scheduling workflows |
-| **RabbitMQ Exchange Demo** | Direct, Fanout and Topic routing semantics |
-| **Fratak Translator** | Cross-platform .NET MAUI application with multilingual and RTL UI |
-| **Personal Accounting** | Windows desktop accounting application with Repository and Unit of Work |
+| [Notification_Services_Pattern](https://github.com/Mohammad-Amin-Nazeri/Notification_Services_Pattern) | Reusable Email/SMS infrastructure & NuGet package |
+| [Microservices-Architecture-DotNet](https://github.com/Mohammad-Amin-Nazeri/Microservices-Architecture-DotNet) | Microservices, gRPC, RabbitMQ & polyglot persistence |
+| [DevLearn-Web](https://github.com/Mohammad-Amin-Nazeri/DevLearn-Web) | Modular Monolith, DDD, CQRS & EventBus |
+| [Eshop-Api-Varaqestan](https://github.com/Mohammad-Amin-Nazeri/Eshop-Api-Varaqestan) | E-commerce API & modular backend architecture |
 
-## Approach
+## 📫 Connect
 
-The common thread across these projects is an interest in separating responsibilities clearly: business rules should not be tightly coupled to presentation, infrastructure should remain replaceable where practical, and shared capabilities should be reusable instead of duplicated across applications.
+<div align="center">
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nazeri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nazeri/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammad-Amin-Nazeri)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aminn02)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_amin_nazeri/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aminn02)
 
----
+⭐ Feel free to explore the repositories and leave a star on projects you find useful.
 
-<a id="فارسی"></a>
-
-# 🇮🇷 فارسی
-
-## درباره من
-
-من **محمد امین ناظری**، توسعه‌دهنده Backend با تمرکز اصلی روی اکوسیستم .NET و طراحی نرم‌افزارهای ساختاریافته و قابل نگهداری هستم.
-
-پروژه‌های من حوزه‌هایی مانند معماری نرم‌افزار، سیستم‌های Modular، فروشگاه اینترنتی، Messaging، زیرساخت Notification، Desktop و توسعه Cross-platform با .NET را پوشش می‌دهند.
-
-## حوزه‌های تمرکز
-
-- توسعه Backend با ASP.NET Core و .NET
-- معماری Modular و Layered
-- طراحی Domain-oriented
-- CQRS و MediatR
-- Messaging و Event-driven Communication
-- RabbitMQ
-- SQL Server و Entity Framework Core
-- ساخت Library و Public API قابل استفاده مجدد
-- Testing و CI/CD
-
-## پروژه‌های شاخص
-
-| پروژه | ارزش فنی |
-|---|---|
-| **Notification_Services_Pattern** | زیرساخت Email/SMS، Provider Architecture، NuGet و CI/CD |
-| **DevLearn-Web** | Modular Monolith، مرزبندی Domain، CQRS، Facade و EventBus |
-| **Varaqestan E-Commerce** | معماری API + Razor Pages برای یک سیستم فروشگاهی کامل |
-| **TecnoBlog** | پلتفرم محتوایی Layered با Authentication و Publishing |
-| **Clinic Reservation** | مدیریت بیمار، Reservation، Authentication و Scheduling |
-| **RabbitMQ Exchange Demo** | رفتار Direct، Fanout و Topic Routing |
-| **Fratak Translator** | اپلیکیشن Cross-platform با .NET MAUI و پشتیبانی RTL |
-| **Personal Accounting** | نرم‌افزار حسابداری Desktop با Repository و Unit of Work |
-
-## رویکرد مهندسی
-
-وجه مشترک پروژه‌ها تلاش برای جداسازی روشن مسئولیت‌هاست: Business Logic نباید به Presentation وابستگی غیرضروری داشته باشد، Infrastructure تا حد ممکن قابل جایگزینی باقی بماند و قابلیت‌های مشترک به‌جای تکرار، قابل استفاده مجدد طراحی شوند.
-
-## ارتباط
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nazeri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammad-Amin-Nazeri)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aminn02)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_amin_nazeri/)
+</div>
