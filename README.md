@@ -1,47 +1,38 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Mohammad Amin Nazeri</h1>
 
-# Mohammad Amin Nazeri
+<p align="center">
+  <strong>.NET Backend Developer</strong><br>
+  I build clean, practical, and scalable backend systems with .NET.
+</p>
 
-**.NET Backend Developer**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-amin-nazeri/">LinkedIn</a> ·
+  <a href="https://github.com/Mohammad-Amin-Nazeri">GitHub</a> ·
+  <a href="https://t.me/Aminn02">Telegram</a>
+</p>
 
-Building backend systems, APIs, and reusable software with a focus on clean design and architecture.
+---
 
-<a href="https://www.linkedin.com/in/mohammad-amin-nazeri/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Mohammad-Amin-Nazeri">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://t.me/Aminn02">Telegram</a>
+<h3 align="center">💻 Languages & Technologies</h3>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,sqlserver,postgres,mongodb,redis,rabbitmq" alt="Languages and technologies" />
+</p>
 
-## ⚙️ Languages & Tools
+<h3 align="center">⚙️ Backend & Architecture</h3>
 
-<div align="center">
+<p align="center">
+  ASP.NET Core · Entity Framework Core · Dapper · MediatR · CQRS · DDD · Clean Architecture · Microservices · Modular Monolith · gRPC · SignalR · MassTransit
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,git,github,docker,postman,sqlserver,postgres,mongodb,redis,rabbitmq" alt="Languages and tools" />
+<h3 align="center">🚀 What I Build</h3>
 
-</div>
+<p align="center">
+  Backend APIs · Distributed Systems · Messaging · Reusable Libraries · Modular Applications
+</p>
 
-## 🧠 Engineering
+---
 
-<div align="center">
-
-| Backend | Architecture | Messaging |
-|:---:|:---:|:---:|
-| ASP.NET Core | Clean Architecture | RabbitMQ |
-| EF Core | CQRS | gRPC |
-| Dapper | DDD | SignalR |
-| MediatR | Microservices | Event-Driven |
-| FluentValidation | Modular Monolith | MassTransit |
-
-</div>
-
-## 🎯 What I Like Building
-
-**Backend APIs** · **Distributed Systems** · **Messaging** · **Reusable Libraries** · **Modular Applications**
-
-<div align="center">
-
-⭐ Thanks for stopping by.
-
-</div>
+<p align="center">
+  <i>Simple code. Clear architecture. Useful software.</i>
+</p>
