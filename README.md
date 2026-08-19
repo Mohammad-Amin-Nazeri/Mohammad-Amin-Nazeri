@@ -24,12 +24,22 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
+<a href="https://github.com/Mohammad-Amin-Nazeri">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
 <a href="https://t.me/Aminn02">
   <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/mohammad_amin_nazeri/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Mohammad-Amin-Nazeri/Mohammad-Amin-Nazeri/blob/main/assets/social-links.svg">
+  <img src="./assets/social-links.svg" alt="Social links" width="720" />
 </a>
 
 </div>
