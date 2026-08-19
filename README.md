@@ -7,9 +7,7 @@
 Building stable, scalable, and clean systems.
 
 Open to collaborating on challenging **.NET Projects**.
-
 <br>
-
 ### Connect with me
 
 <a href="mailto:nazrymhmdamyn85@gmail.com">
