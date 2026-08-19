@@ -36,10 +36,4 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-<br><br>
-
-<a href="https://github.com/Mohammad-Amin-Nazeri/Mohammad-Amin-Nazeri/blob/main/assets/social-links.svg">
-  <img src="./assets/social-links.svg" alt="Social links" width="720" />
-</a>
-
 </div>
