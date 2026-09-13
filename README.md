@@ -4,11 +4,9 @@
 
 ### Backend Software Engineer · .NET
 
-Building reliable and scalable backend systems with **C#** and **ASP.NET Core**.
+Building reliable, scalable and maintainable backend systems with **C#** and **ASP.NET Core**.
 
-<a href="https://dotnet.microsoft.com/">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,redis,mongodb,rabbitmq,docker,git,github&perline=10" alt="Technology Stack" />
-</a>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,postgres,redis,mongodb,rabbitmq&perline=10" alt="Tech Stack" />
 
 </div>
 
@@ -16,17 +14,35 @@ Building reliable and scalable backend systems with **C#** and **ASP.NET Core**.
 
 Backend Software Engineer focused on the **.NET ecosystem**, backend architecture, and scalable web applications.
 
-Experienced with **Clean Architecture, DDD, CQRS, Modular Monoliths, Microservices, SQL/NoSQL databases, caching, messaging, testing, and Docker**.
+I work with clean, domain-driven and distributed architectures, with hands-on experience in **Web APIs, SQL/NoSQL databases, caching, messaging, testing and containerized environments**.
 
-## Core Technologies
+## Skills
 
-**Backend:** C# · .NET · ASP.NET Core · Web API · REST
+### Backend
 
-**Architecture:** Clean Architecture · DDD · CQRS · SOLID · Design Patterns · Microservices
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postman,swagger&perline=5" alt="Backend Skills" />
 
-**Data & Infrastructure:** SQL Server · PostgreSQL · MongoDB · Redis · RabbitMQ · Docker
+### Architecture & Engineering
 
-**Tools:** EF Core · Dapper · MediatR · Hangfire · xUnit · NUnit · Git · GitHub · Swagger/OpenAPI
+<img src="https://img.shields.io/badge/Clean_Architecture-181717?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/DDD-181717?style=for-the-badge&logo=databricks&logoColor=white" alt="DDD" />
+<img src="https://img.shields.io/badge/CQRS-181717?style=for-the-badge&logo=dependabot&logoColor=white" alt="CQRS" />
+<img src="https://img.shields.io/badge/Microservices-181717?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Microservices" />
+<img src="https://img.shields.io/badge/Modular_Monolith-181717?style=for-the-badge&logo=dotnet&logoColor=white" alt="Modular Monolith" />
+<img src="https://img.shields.io/badge/SOLID-181717?style=for-the-badge&logo=semanticweb&logoColor=white" alt="SOLID" />
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb,redis,rabbitmq,docker&perline=6" alt="Data and Infrastructure" />
+
+### Tools & Quality
+
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dapper" />
+<img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MediatR" />
+<img src="https://img.shields.io/badge/Hangfire-181717?style=for-the-badge&logo=dotnet&logoColor=white" alt="Hangfire" />
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit" />
+<img src="https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="NUnit" />
 
 ## Connect with me
 
