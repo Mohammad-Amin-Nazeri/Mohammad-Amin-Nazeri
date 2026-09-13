@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="128" viewBox="0 0 760 128" role="img" aria-label="Animated technology skills carousel">
+  <defs>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#7ee787"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.22"/>
+    </filter>
+    <style>
+      .item { opacity: 0; transform-origin: 380px 64px; animation: cycle 30s ease-in-out infinite; }
+      .i1 { animation-delay: -0s; }
+      .i2 { animation-delay: -2.5s; }
+      .i3 { animation-delay: -5s; }
+      .i4 { animation-delay: -7.5s; }
+      .i5 { animation-delay: -10s; }
+      .i6 { animation-delay: -12.5s; }
+      .i7 { animation-delay: -15s; }
+      .i8 { animation-delay: -17.5s; }
+      .i9 { animation-delay: -20s; }
+      .i10 { animation-delay: -22.5s; }
+      .i11 { animation-delay: -25s; }
+      .i12 { animation-delay: -27.5s; }
+      @keyframes cycle {
+        0%, 2% { opacity: 0; transform: translateY(8px) scale(.98); }
+        4%, 10% { opacity: 1; transform: translateY(0) scale(1); }
+        12%, 100% { opacity: 0; transform: translateY(-8px) scale(.98); }
+      }
+      .name { font: 600 25px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #f0f6fc; }
+      .label { font: 400 14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #8b949e; }
+    </style>
+  </defs>
+
+  <rect x="10" y="10" width="740" height="108" rx="22" fill="url(#card)" stroke="#30363d" filter="url(#shadow)"/>
+  <rect x="10" y="10" width="740" height="3" rx="2" fill="url(#accent)"/>
+
+  <g class="item i1">
+    <image href="https://skillicons.dev/icons?i=csharp" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">C#</text>
+    <text class="label" x="154" y="88">Language</text>
+  </g>
+  <g class="item i2">
+    <image href="https://skillicons.dev/icons?i=dotnet" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">.NET</text>
+    <text class="label" x="154" y="88">Backend ecosystem</text>
+  </g>
+  <g class="item i3">
+    <image href="https://skillicons.dev/icons?i=dotnet" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">ASP.NET Core</text>
+    <text class="label" x="154" y="88">Web APIs & services</text>
+  </g>
+  <g class="item i4">
+    <image href="https://skillicons.dev/icons?i=sqlserver" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">SQL Server</text>
+    <text class="label" x="154" y="88">Relational data</text>
+  </g>
+  <g class="item i5">
+    <image href="https://skillicons.dev/icons?i=mongodb" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">MongoDB</text>
+    <text class="label" x="154" y="88">NoSQL data</text>
+  </g>
+  <g class="item i6">
+    <image href="https://skillicons.dev/icons?i=redis" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">Redis</text>
+    <text class="label" x="154" y="88">Caching & fast data</text>
+  </g>
+  <g class="item i7">
+    <image href="https://skillicons.dev/icons?i=rabbitmq" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">RabbitMQ</text>
+    <text class="label" x="154" y="88">Messaging</text>
+  </g>
+  <g class="item i8">
+    <image href="https://skillicons.dev/icons?i=docker" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">Docker</text>
+    <text class="label" x="154" y="88">Containers</text>
+  </g>
+  <g class="item i9">
+    <image href="https://skillicons.dev/icons?i=postgres" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">PostgreSQL</text>
+    <text class="label" x="154" y="88">Relational data</text>
+  </g>
+  <g class="item i10">
+    <image href="https://skillicons.dev/icons?i=git" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">Git</text>
+    <text class="label" x="154" y="88">Version control</text>
+  </g>
+  <g class="item i11">
+    <image href="https://skillicons.dev/icons?i=github" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">GitHub</text>
+    <text class="label" x="154" y="88">Collaboration</text>
+  </g>
+  <g class="item i12">
+    <image href="https://skillicons.dev/icons?i=swagger" x="72" y="36" width="56" height="56"/>
+    <text class="name" x="154" y="66">Swagger / OpenAPI</text>
+    <text class="label" x="154" y="88">API documentation</text>
+  </g>
+</svg>
