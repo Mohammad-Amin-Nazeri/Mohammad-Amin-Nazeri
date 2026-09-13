@@ -2,10 +2,10 @@
 
 # Hi 👋, I'm Mohammad Amin Nazeri
 
-### Software Developer | .NET | Clean Architecture | Microservices
+### Software Developer · .NET · Backend Engineering
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Backend+Developer;Building+Reliable+%26+Scalable+Systems;Clean+Architecture+%7C+DDD+%7C+CQRS;Microservices+%7C+Distributed+Systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=38&lines=Backend+Software+Engineer;Building+Reliable+%26+Scalable+Systems;Clean+Architecture+%7C+DDD+%7C+CQRS;Microservices+%7C+Distributed+Systems" alt="Typing animation" />
 </p>
 
 <p>
@@ -14,101 +14,95 @@
 
 </div>
 
-<br>
+---
+
+## About Me
+
+Backend-focused developer working with the .NET ecosystem.
+
+I build software with a strong focus on clean architecture, maintainability,
+scalability and reliable backend design.
+
+> **Build systems that stay understandable as they grow.**
 
 ---
 
-## 🧠 Core Stack
+## Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=cs" width="48"><br><sub><b>C#</b></sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet" width="48"><br><sub><b>.NET</b></sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet" width="48"><br><sub><b>ASP.NET Core</b></sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=swagger" width="48"><br><sub><b>Web API</b></sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet" width="48"><br><sub><b>EF Core</b></sub></td>
-</tr>
-</table>
+### Backend
 
-<br>
-
-## 🏗️ Architecture & Engineering
-
-<p align="center">
-<img src="https://img.shields.io/badge/Clean%20Architecture-161B22?style=flat-square&logo=dependabot&logoColor=58A6FF">
-&nbsp;
-<img src="https://img.shields.io/badge/DDD-161B22?style=flat-square&logo=databricks&logoColor=58A6FF">
-&nbsp;
-<img src="https://img.shields.io/badge/CQRS-161B22?style=flat-square&logo=gitbook&logoColor=58A6FF">
-&nbsp;
-<img src="https://img.shields.io/badge/SOLID-161B22?style=flat-square&logo=codeql&logoColor=58A6FF">
-<br><br>
-<img src="https://img.shields.io/badge/Microservices-161B22?style=flat-square&logo=dapr&logoColor=58A6FF">
-&nbsp;
-<img src="https://img.shields.io/badge/Modular%20Monolith-161B22?style=flat-square&logo=dotnet&logoColor=58A6FF">
-&nbsp;
-<img src="https://img.shields.io/badge/Event--Driven-161B22?style=flat-square&logo=rabbitmq&logoColor=58A6FF">
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="48" alt="C# and .NET" />
 </p>
+
+`ASP.NET Core` · `Web API` · `MVC` · `Razor` · `EF Core` · `Dapper`
+
+### Architecture
+
+`Clean Architecture` · `DDD` · `CQRS` · `SOLID` · `Design Patterns`  
+`Modular Monolith` · `Microservices` · `Event-Driven Architecture`
+
+### Data & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,redis,rabbitmq" height="48" alt="SQL Server, PostgreSQL, MongoDB, Redis and RabbitMQ" />
+</p>
+
+`SQL Server` · `PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ`
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nuget" height="48" alt="Docker, Git, GitHub and NuGet" />
+</p>
+
+`Docker` · `Git` · `GitHub` · `NuGet` · `OpenAPI`
+
+### Testing
+
+`xUnit` · `NUnit` · `Unit Testing` · `Dependency Injection`
 
 ---
 
-## 🗄️ Data & Infrastructure
+## Engineering Focus
 
-<table align="center">
-<tr>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=sqlserver" width="45"><br><sub><b>SQL Server</b></sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="45"><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="45"><br><sub><b>MongoDB</b></sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=redis" width="45"><br><sub><b>Redis</b></sub></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="45"><br><sub><b>RabbitMQ</b></sub></td>
-</tr>
-</table>
+**Clean Code**  
+Writing code that remains readable and maintainable.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED">
-&nbsp;
-<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032">
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF">
-&nbsp;
-<img src="https://img.shields.io/badge/NuGet-161B22?style=flat-square&logo=nuget&logoColor=004880">
-&nbsp;
-<img src="https://img.shields.io/badge/OpenAPI-161B22?style=flat-square&logo=swagger&logoColor=85EA2D">
-</p>
+**Scalable Systems**  
+Designing backend services that can grow with the product.
+
+**Business Logic**  
+Building clear and reliable domain-driven solutions.
+
+**Distributed Systems**  
+Working with messaging, caching and service-based architectures.
 
 ---
 
-## 🧪 Quality & Practices
+## Connect
 
 <p align="center">
-  <b>Unit Testing</b> &nbsp;·&nbsp; <b>xUnit</b> &nbsp;·&nbsp; <b>NUnit</b> &nbsp;·&nbsp; <b>Dependency Injection</b> &nbsp;·&nbsp; <b>Design Patterns</b>
+  <a href="mailto:nazrymhmdamyn85@gmail.com">
+    <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="40" alt="Email">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
+    <img src="https://img.icons8.com/color/64/linkedin.png" width="40" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mohammad-Amin-Nazeri">
+    <img src="https://img.icons8.com/fluency/64/github.png" width="40" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/Aminn02">
+    <img src="https://img.icons8.com/color/64/telegram-app.png" width="40" alt="Telegram">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mohammad_amin_nazeri/">
+    <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="40" alt="Instagram">
+  </a>
 </p>
-
-## 🎯 What I Focus On
-
-<p align="center">
-<b>Clean Code</b> · <b>Scalable Systems</b> · <b>Maintainable Architecture</b> · <b>Reliable Backend Services</b>
-</p>
-
-I enjoy solving backend problems, designing business logic, and building systems that remain understandable as they grow.
-
----
-
-## 📬 Connect
-
-<p align="center">
-<a href="mailto:nazrymhmdamyn85@gmail.com"><img src="https://img.icons8.com/fluency/64/gmail-new.png" width="42" alt="Email"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohammad-amin-nazeri"><img src="https://img.icons8.com/color/64/linkedin.png" width="42" alt="LinkedIn"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Mohammad-Amin-Nazeri"><img src="https://img.icons8.com/fluency/64/github.png" width="42" alt="GitHub"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/Aminn02"><img src="https://img.icons8.com/color/64/telegram-app.png" width="42" alt="Telegram"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mohammad_amin_nazeri/"><img src="https://img.icons8.com/fluency/64/instagram-new.png" width="42" alt="Instagram"></a>
-</p>
-
-<br>
 
 <div align="center">
 
