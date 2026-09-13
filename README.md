@@ -6,7 +6,9 @@
 
 Building reliable, scalable and maintainable backend systems with **C#** and **ASP.NET Core**.
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,postgres,redis,mongodb,rabbitmq&perline=10" alt="Tech Stack" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,postgres,redis,mongodb,rabbitmq&perline=10" alt="Technology Stack" />
 
 </div>
 
@@ -14,37 +16,37 @@ Building reliable, scalable and maintainable backend systems with **C#** and **A
 
 Backend Software Engineer focused on the **.NET ecosystem**, backend architecture, and scalable web applications.
 
-I work with clean, domain-driven and distributed architectures, with hands-on experience in **Web APIs, SQL/NoSQL databases, caching, messaging, testing and containerized environments**.
+I work with clean, domain-driven and distributed architectures, with hands-on experience in **Web APIs, SQL/NoSQL databases, caching, messaging, testing, and containerized environments**.
 
 ## Skills
 
-### Backend
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postman,swagger&perline=5" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postman,swagger,mssql,postgres,mongodb,redis,rabbitmq,docker,git,github&perline=13" alt="Core Technologies" />
 
-### Architecture & Engineering
+<br><br>
 
-<img src="https://img.shields.io/badge/Clean_Architecture-181717?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/DDD-181717?style=for-the-badge&logo=databricks&logoColor=white" alt="DDD" />
-<img src="https://img.shields.io/badge/CQRS-181717?style=for-the-badge&logo=dependabot&logoColor=white" alt="CQRS" />
-<img src="https://img.shields.io/badge/Microservices-181717?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Microservices" />
-<img src="https://img.shields.io/badge/Modular_Monolith-181717?style=for-the-badge&logo=dotnet&logoColor=white" alt="Modular Monolith" />
-<img src="https://img.shields.io/badge/SOLID-181717?style=for-the-badge&logo=semanticweb&logoColor=white" alt="SOLID" />
+<img src="https://img.shields.io/badge/Clean_Architecture-181717?style=for-the-badge&logo=architectural-designer&logoColor=white" height="28" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/DDD-181717?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="Domain Driven Design" />
+<img src="https://img.shields.io/badge/CQRS-181717?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="CQRS" />
+<img src="https://img.shields.io/badge/Microservices-181717?style=for-the-badge&logo=googlecloud&logoColor=white" height="28" alt="Microservices" />
+<img src="https://img.shields.io/badge/Modular_Monolith-181717?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="Modular Monolith" />
+<img src="https://img.shields.io/badge/SOLID-181717?style=for-the-badge&logo=abstract&logoColor=white" height="28" alt="SOLID" />
 
-### Data & Infrastructure
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mssql,postgres,mongodb,redis,rabbitmq,docker&perline=6" alt="Data and Infrastructure" />
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="Dapper" />
+<img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MediatR" />
+<img src="https://img.shields.io/badge/Hangfire-181717?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="Hangfire" />
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="xUnit" />
+<img src="https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="NUnit" />
 
-### Tools & Quality
-
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dapper" />
-<img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MediatR" />
-<img src="https://img.shields.io/badge/Hangfire-181717?style=for-the-badge&logo=dotnet&logoColor=white" alt="Hangfire" />
-<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit" />
-<img src="https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="NUnit" />
+</div>
 
 ## Connect with me
+
+<div align="left">
 
 <a href="mailto:nazrymhmdamyn85@gmail.com">
   <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="42" alt="Email" />
@@ -66,7 +68,11 @@ I work with clean, domain-driven and distributed architectures, with hands-on ex
   <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="42" alt="Instagram" />
 </a>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Mohammad-Amin-Nazeri&style=flat-square&color=grey" alt="Profile Views" />
 
