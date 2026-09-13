@@ -1,13 +1,64 @@
 <div align="center">
 
-# Hi 👋, I'm Mohammad Amin Nazeri
+# Mohammad Amin Nazeri
 
-**Backend Software Engineer | .NET**
+### Backend Software Engineer · .NET
 
-Building stable, scalable, and clean systems.
+Building reliable, scalable backend systems with **C#** and **ASP.NET Core**.
 
-Open to collaborating on challenging **.NET Projects**.
-<br>
+`C#` · `.NET` · `ASP.NET Core` · `Clean Architecture` · `DDD` · `CQRS` · `Microservices`
+
+</div>
+
+## About
+
+Backend Software Engineer focused on the **.NET ecosystem**, with hands-on experience building Web APIs and business applications.
+
+I focus on maintainable architecture, clear domain boundaries, and reliable backend services, with experience across SQL/NoSQL databases, caching, messaging, testing, and containerized deployment.
+
+## Core Stack
+
+**Backend**  
+C# · .NET · ASP.NET Core · Web API · REST
+
+**Architecture**  
+Clean Architecture · DDD · CQRS · Modular Monolith · Microservices · SOLID · Design Patterns
+
+**Data & Infrastructure**  
+SQL Server · PostgreSQL · MongoDB · Redis · RabbitMQ · Docker
+
+**Tools & Quality**  
+EF Core · Dapper · MediatR · Hangfire · xUnit · NUnit · Git · GitHub · Swagger/OpenAPI
+
+## Selected Projects
+
+### Notification Services Library for .NET
+Reusable notification library for Email and SMS with provider-based architecture, dependency injection, unit testing, and NuGet packaging.
+
+[Repository](https://github.com/Mohammad-Amin-Nazeri/Notification_Services_Pattern)
+
+### Microservices Architecture Sample with .NET
+A practical microservices sample demonstrating ASP.NET Core services, RabbitMQ messaging, API Gateway, REST/gRPC communication, and Docker-based deployment.
+
+[Repository](https://github.com/Mohammad-Amin-Nazeri/Microservices-Architecture-DotNet)
+
+### DevLearn-Web
+Online learning platform built with a **Modular Monolith** architecture, using DDD, CQRS, Event Bus, and Facade Pattern across multiple business modules.
+
+[Repository](https://github.com/Mohammad-Amin-Nazeri/DevLearn-Web)
+
+### Eshop-Api-Varaqestan
+ASP.NET Core marketplace backend focused on Clean Architecture, CQRS, DDD, EF Core/Dapper, Redis, Razor Pages, and Docker.
+
+[Repository](https://github.com/Mohammad-Amin-Nazeri/Eshop-Api-Varaqestan)
+
+## Engineering Focus
+
+- Designing maintainable backend architectures
+- Building scalable APIs and business systems
+- Working with distributed systems and asynchronous communication
+- Improving reliability through testing, observability, and clean design
+
 ### Connect with me
 
 <a href="mailto:nazrymhmdamyn85@gmail.com">
@@ -32,5 +83,8 @@ Open to collaborating on challenging **.NET Projects**.
 
 <br>
 
+<div align="center">
+
+<sub>Building backend systems with clarity, reliability, and purpose.</sub>
 
 </div>
