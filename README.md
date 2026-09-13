@@ -2,79 +2,63 @@
 
 # Hi 👋, I'm Mohammad Amin Nazeri
 
-**Backend Software Engineer | .NET**
+<p>
+  <a href="https://github.com/Mohammad-Amin-Nazeri">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=720&lines=Backend+Software+Engineer+%7C+.NET;Building+Reliable+Backend+Systems;Clean+Architecture+%7C+DDD+%7C+CQRS;Modular+Monoliths+%7C+Microservices" alt="Typing SVG" />
+  </a>
+</p>
 
-Building reliable, scalable, and maintainable backend systems with the .NET ecosystem.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohammad-Amin-Nazeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nazeri)
+Backend-focused software engineer building reliable, scalable, and maintainable systems with the .NET ecosystem.
 
 </div>
 
-## About
+---
 
-I'm a backend-focused .NET developer interested in software architecture, distributed systems, and building business applications that remain clean and maintainable as they grow.
+### ⚙️ Tech Stack
 
-My main areas of focus include:
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,aspnetcore,grpc,rabbitmq,sqlserver,postgresql,mongodb,redis,docker,git,github" alt="Tech Stack" />
+</p>
 
-- Backend development with **C# and ASP.NET Core**
-- Designing APIs and business logic with **Clean Architecture, DDD, and CQRS**
-- Building **Modular Monoliths and Microservices**
-- Working with **SQL and NoSQL databases**
-- Caching and asynchronous communication with **Redis and RabbitMQ**
-- Containerized development and deployment with **Docker**
-- Writing reliable code with **unit testing**
+### 🏗️ Architecture & Engineering
 
-## Tech Stack
+<p align="center">
+  <code>Clean Architecture</code> · <code>DDD</code> · <code>CQRS</code> · <code>Modular Monolith</code> · <code>Microservices</code> · <code>Event-Driven</code> · <code>SOLID</code> · <code>Design Patterns</code> · <code>Unit Testing</code>
+</p>
 
-**Backend:** C#, .NET, ASP.NET Core, Web API, Entity Framework Core, Dapper, MediatR  
-**Architecture:** Clean Architecture, DDD, CQRS, Modular Monolith, Microservices, SOLID, Design Patterns  
-**Data:** SQL Server, PostgreSQL, MongoDB, Redis  
-**Messaging & Jobs:** RabbitMQ, Event-Driven Architecture, Hangfire  
-**Tools:** Docker, Docker Compose, Git, GitHub, Swagger / OpenAPI, NuGet, xUnit, NUnit
+### 🚀 Featured Projects
 
-## Featured Projects
+| Project | Focus |
+|---|---|
+| **[Notification Services Library](https://github.com/Mohammad-Amin-Nazeri/Notification_Services_Pattern)** | Extensible Email & SMS notification library for .NET |
+| **[Microservices Architecture Sample](https://github.com/Mohammad-Amin-Nazeri/Microservices-Architecture-DotNet)** | Microservices, RabbitMQ, API Gateway, Docker |
+| **[DevLearn-Web](https://github.com/Mohammad-Amin-Nazeri/DevLearn-Web)** | Modular Monolith, DDD, CQRS, Event Bus |
+| **Hotel Management & Reservation System** | ASP.NET Core, Clean Architecture, Redis, SQL Server & MongoDB |
 
-### Notification Services Library for .NET
+### 🎯 Current Focus
 
-An extensible library for integrating Email and SMS notification providers in .NET applications, designed around provider-based architecture, dependency injection, and testability.
+Building backend systems that are easier to scale, test, understand, and maintain.
 
-→ [View Repository](https://github.com/Mohammad-Amin-Nazeri/Notification_Services_Pattern)
+### 📬 Connect with me
 
-### Microservices Architecture Sample with .NET
+<p align="center">
+  <a href="mailto:nazrymhmdamyn85@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-amin-nazeri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/Aminn02" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mohammad_amin_nazeri/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-A practical sample demonstrating independent ASP.NET Core services, RabbitMQ-based asynchronous communication, API Gateway, and Docker containerization.
-
-→ [View Repository](https://github.com/Mohammad-Amin-Nazeri/Microservices-Architecture-DotNet)
-
-### Online Learning Platform
-
-A modular online learning platform built with ASP.NET Core and Modular Monolith architecture, using DDD, CQRS, Event Bus, and the Facade Pattern.
-
-→ [View Repository](https://github.com/Mohammad-Amin-Nazeri/DevLearn-Web)
-
-### Hotel Management & Reservation System
-
-A backend-focused hotel management and reservation system built with ASP.NET Core Web API, Clean Architecture, DDD, CQRS, Redis, SQL Server, MongoDB, Docker, and xUnit.
-
-## Connect with me
-
-<a href="mailto:nazrymhmdamyn85@gmail.com">
-  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="46" alt="Email" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="46" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Mohammad-Amin-Nazeri">
-  <img src="https://img.icons8.com/fluency/96/github.png" width="46" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/Aminn02">
-  <img src="https://img.icons8.com/color/96/telegram-app.png" width="46" alt="Telegram" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mohammad_amin_nazeri/">
-  <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="46" alt="Instagram" />
-</a>
+<p align="center">
+  <i>Open to collaboration, backend opportunities, and meaningful software projects.</i>
+</p>
