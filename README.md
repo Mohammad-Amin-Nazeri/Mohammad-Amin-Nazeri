@@ -1,79 +1,108 @@
 <div align="center">
 
-# Mohammad Amin Nazeri
+  <!-- ===== Banner ===== -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B132B,30:1C2541,60:3A506B,100:5BC0BE&text=Mohammad%20Amin%20Nazeri&fontSize=44&fontColor=6FFFFF&fontAlignY=42&desc=Backend%20Software%20Developer%20%7C%20.NET&descAlignY=62&descSize=18&descColor=E0F7F4&animation=fadeIn"
+    alt="Mohammad Amin Nazeri — Backend Software Developer, .NET"
+    width="100%"
+  />
 
-### Backend Software Engineer · .NET
+  <br/><br/>
 
-Building reliable, scalable and maintainable backend systems with **C#** and **ASP.NET Core**.
+  <h3>Building reliable, scalable & maintainable backend software with <br/> <strong>C#</strong> and <strong>ASP.NET Core</strong>.</h3>
 
-<br>
+  <br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,postgres,redis,mongodb,rabbitmq&perline=10" alt="Technology Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,docker,postgres,redis,mongodb,rabbitmq&perline=10"
+    alt="C#, .NET, Visual Studio, Git, GitHub, Docker, PostgreSQL, Redis, MongoDB, RabbitMQ"
+  />
 
 </div>
 
-## About
+---
 
-Backend Software Engineer focused on the **.NET ecosystem**, backend architecture, and scalable web applications.
+## <img src="https://img.icons8.com/fluency/24/user-account.png" width="22"/> About
 
-I work with clean, domain-driven and distributed architectures, with hands-on experience in **Web APIs, SQL/NoSQL databases, caching, messaging, testing, and containerized environments**.
+Backend Software Developer focused on the **.NET ecosystem**, backend architecture, and scalable web applications.
 
-## Skills
+I build maintainable systems with **C#**, **ASP.NET Core**, clean architectural principles, and modern backend technologies — including **Web APIs, SQL & NoSQL databases, caching, messaging, testing, background jobs, and containerized environments**.
+
+I enjoy solving technical challenges, improving code quality, and continuously learning.
+
+---
+
+## <img src="https://img.icons8.com/fluency/24/source-code.png" width="22"/> Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postman,swagger,mssql,postgres,mongodb,redis,rabbitmq,docker,git,github&perline=13" alt="Core Technologies" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=600&color=5BC0BE&center=true&vCenter=true&width=720&height=60&lines=C%23+%7C+ASP.NET+Core+%7C+Web+API;Clean+Architecture+%7C+DDD+%7C+CQRS;Microservices+%7C+Modular+Monolith;EF+Core+%7C+Dapper+%7C+SQL+Server;Redis+%7C+RabbitMQ+%7C+Hangfire;Docker+%7C+xUnit+%7C+MediatR"
+    alt="Core skills"
+  />
 
-<br><br>
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/Clean_Architecture-181717?style=for-the-badge&logo=architectural-designer&logoColor=white" height="28" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/DDD-181717?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="Domain Driven Design" />
-<img src="https://img.shields.io/badge/CQRS-181717?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="CQRS" />
-<img src="https://img.shields.io/badge/Microservices-181717?style=for-the-badge&logo=googlecloud&logoColor=white" height="28" alt="Microservices" />
-<img src="https://img.shields.io/badge/Modular_Monolith-181717?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="Modular Monolith" />
-<img src="https://img.shields.io/badge/SOLID-181717?style=for-the-badge&logo=abstract&logoColor=white" height="28" alt="SOLID" />
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,mssql,postgres,mongodb,redis,rabbitmq,docker,git,github&perline=10"
+    alt="C#, .NET, SQL Server, PostgreSQL, MongoDB, Redis, RabbitMQ, Docker, Git, GitHub"
+  />
 
-<br><br>
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="Dapper" />
-<img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MediatR" />
-<img src="https://img.shields.io/badge/Hangfire-181717?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="Hangfire" />
-<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="xUnit" />
-<img src="https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="NUnit" />
-
-</div>
-
-## Connect with me
-
-<div align="left">
-
-<a href="mailto:nazrymhmdamyn85@gmail.com">
-  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="42" alt="Email" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohammad-amin-nazeri">
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="42" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Mohammad-Amin-Nazeri">
-  <img src="https://img.icons8.com/fluency/96/github.png" width="42" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/Aminn02">
-  <img src="https://img.icons8.com/color/96/telegram-app.png" width="42" alt="Telegram" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mohammad_amin_nazeri/">
-  <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="42" alt="Instagram" />
-</a>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0B132B?style=for-the-badge&labelColor=5BC0BE&logo=diagramsdotnet&logoColor=0B132B" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/DDD-0B132B?style=for-the-badge&labelColor=5BC0BE&logo=bookstack&logoColor=0B132B" alt="Domain Driven Design"/>
+  <img src="https://img.shields.io/badge/CQRS-0B132B?style=for-the-badge&labelColor=5BC0BE&logo=apachekafka&logoColor=0B132B" alt="CQRS"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Microservices-0B132B?style=for-the-badge&labelColor=5BC0BE&logo=kubernetes&logoColor=0B132B" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Modular%20Monolith-0B132B?style=for-the-badge&labelColor=5BC0BE&logo=codefactor&logoColor=0B132B" alt="Modular Monolith"/>
+  <img src="https://img.shields.io/badge/SOLID-0B132B?style=for-the-badge&labelColor=5BC0BE&logo=checkmarx&logoColor=0B132B" alt="SOLID Principles"/>
 
 </div>
 
-<br>
+---
+
+## <img src="https://img.icons8.com/fluency/24/phone-disconnected.png" width="22"/> Connect with me
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mohammad-Amin-Nazeri&style=flat-square&color=grey" alt="Profile Views" />
+  <a href="mailto:nazrymhmdamyn85@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="58" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-amin-nazeri" title="LinkedIn">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="58" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mohammad-Amin-Nazeri" title="GitHub">
+    <img src="https://img.icons8.com/fluency/96/github.png" width="58" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Aminn02" title="Telegram">
+    <img src="https://img.icons8.com/color/96/telegram-app.png" width="58" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mohammad_amin_nazeri/" title="Instagram">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="58" alt="Instagram"/>
+  </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5BC0BE,50:3A506B,100:0B132B&section=footer&text=Open%20to%20collaboration%20%F0%9F%9A%80&fontSize=20&fontColor=E0F7F4&fontAlignY=70"
+    alt="Footer"
+    width="100%"
+  />
+
+</div>
+
+## <img src="https://img.icons8.com/fluency/24/statistics.png" width="22"/> GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amin-Nazeri&show_icons=true&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE&text_color=E0F7F4" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Amin-Nazeri&layout=compact&hide_border=true&bg_color=0B132B&title_color=5BC0BE&text_color=E0F7F4" alt="Top Languages"/>
 </div>
