@@ -38,7 +38,6 @@ I enjoy solving technical challenges, improving code quality, and continuously l
 
 
 
-![Tech Stack](./assets/tech-stack.svg)
   <br/>
 
   <img
