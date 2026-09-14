@@ -37,6 +37,7 @@ I enjoy solving technical challenges, improving code quality, and continuously l
 <div align="center">
 
 
+![Tech Stack](./assets/tech-stack.svg)
 
   <br/>
 
