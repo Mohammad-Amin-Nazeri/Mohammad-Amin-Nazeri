@@ -99,10 +99,3 @@ I enjoy solving technical challenges, improving code quality, and continuously l
   />
 
 </div>
-
-## <img src="https://img.icons8.com/fluency/24/statistics.png" width="22"/> GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Amin-Nazeri&show_icons=true&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE&text_color=E0F7F4" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Amin-Nazeri&layout=compact&hide_border=true&bg_color=0B132B&title_color=5BC0BE&text_color=E0F7F4" alt="Top Languages"/>
-</div>
