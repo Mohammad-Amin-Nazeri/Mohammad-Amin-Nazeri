@@ -36,12 +36,10 @@ I enjoy solving technical challenges, improving code quality, and continuously l
 
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=600&color=5BC0BE&center=true&vCenter=true&width=720&height=60&lines=C%23+%7C+ASP.NET+Core+%7C+Web+API;Clean+Architecture+%7C+DDD+%7C+CQRS;Microservices+%7C+Modular+Monolith;EF+Core+%7C+Dapper+%7C+SQL+Server;Redis+%7C+RabbitMQ+%7C+Hangfire;Docker+%7C+xUnit+%7C+MediatR"
-    alt="Core skills"
-  />
 
-  <br/><br/>
+
+![Tech Stack](./assets/tech-stack.svg)
+  <br/>
 
   <img
     src="https://skillicons.dev/icons?i=cs,dotnet,mssql,postgres,mongodb,redis,rabbitmq,docker,git,github&perline=10"
