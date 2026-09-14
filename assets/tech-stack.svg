@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" font-family="'Segoe UI','SF Pro Display','Inter','Helvetica Neue',Arial,sans-serif">
+  <defs>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Header -->
+  <text x="400" y="48" fill="#8b949e" font-size="11" font-weight="700" letter-spacing="4" text-anchor="middle">TECH · STACK</text>
+  <circle cx="620" cy="44" r="3.5" fill="#58a6ff" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Rotating skills -->
+  <g text-anchor="middle" font-size="40" font-weight="700" fill="url(#textGrad)" filter="url(#glow)">
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0;0.00500;0.02064;0.02564;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">C#<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.00500;0.02064;0.02564;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.02564;0.03064;0.04615;0.05128;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">ASP.NET Core<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02564;0.03064;0.04615;0.05128;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.05128;0.05628;0.07179;0.07692;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">.NET<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.05128;0.05628;0.07179;0.07692;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.07692;0.08192;0.09744;0.10256;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">ASP.NET Core Web API<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07692;0.08192;0.09744;0.10256;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.10256;0.10756;0.12308;0.12821;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Clean Architecture<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.10256;0.10756;0.12308;0.12821;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.12821;0.13321;0.14872;0.15385;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Software Architecture<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.12821;0.13321;0.14872;0.15385;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.15385;0.15885;0.17436;0.17949;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Entity Framework Core<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.15385;0.15885;0.17436;0.17949;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.17949;0.18449;0.20000;0.20513;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">SQL Server<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.17949;0.18449;0.20000;0.20513;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.20513;0.21013;0.22564;0.23077;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">RESTful API<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.20513;0.21013;0.22564;0.23077;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.23077;0.23577;0.25128;0.25641;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Microservices Architecture<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.23077;0.23577;0.25128;0.25641;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.25641;0.26141;0.27692;0.28205;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Domain-Driven Design (DDD)<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25641;0.26141;0.27692;0.28205;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.28205;0.28705;0.30256;0.30769;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">CQRS<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.28205;0.28705;0.30256;0.30769;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.30769;0.31269;0.32821;0.33333;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Modular Monolith Architecture<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30769;0.31269;0.32821;0.33333;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.33333;0.33833;0.35385;0.35897;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Design Patterns<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33333;0.33833;0.35385;0.35897;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.35897;0.36397;0.37949;0.38462;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">SOLID Principles<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35897;0.36397;0.37949;0.38462;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.38462;0.38962;0.40513;0.41026;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Dependency Injection<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.38462;0.38962;0.40513;0.41026;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.41026;0.41526;0.43077;0.43590;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">RabbitMQ<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.41026;0.41526;0.43077;0.43590;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.43590;0.44090;0.45641;0.46154;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Event-Driven Architecture<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.43590;0.44090;0.45641;0.46154;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.46154;0.46654;0.48205;0.48718;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Redis<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46154;0.46654;0.48205;0.48718;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.48718;0.49218;0.50769;0.51282;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">MongoDB<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.48718;0.49218;0.50769;0.51282;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.51282;0.51782;0.53333;0.53846;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Dapper<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.51282;0.51782;0.53333;0.53846;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.53846;0.54346;0.55897;0.56410;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Hangfire<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.53846;0.54346;0.55897;0.56410;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.56410;0.56910;0.58462;0.58974;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">PostgreSQL<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.56410;0.56910;0.58462;0.58974;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.58974;0.59474;0.61026;0.61538;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">MediatR<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.58974;0.59474;0.61026;0.61538;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.61538;0.62038;0.63590;0.64103;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">T-SQL<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.61538;0.62038;0.63590;0.64103;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.64103;0.64603;0.66154;0.66667;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Database Design<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.64103;0.64603;0.66154;0.66667;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.66667;0.67167;0.68718;0.69231;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Docker<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66667;0.67167;0.68718;0.69231;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.69231;0.69731;0.71282;0.71795;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Docker Compose<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.69231;0.69731;0.71282;0.71795;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.71795;0.72295;0.73846;0.74359;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Unit Testing<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.71795;0.72295;0.73846;0.74359;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.74359;0.74859;0.76410;0.76923;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">xUnit<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.74359;0.74859;0.76410;0.76923;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.76923;0.77423;0.78974;0.79487;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">NUnit<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76923;0.77423;0.78974;0.79487;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.79487;0.79987;0.81538;0.82051;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Git<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.79487;0.79987;0.81538;0.82051;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.82051;0.82551;0.84103;0.84615;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">GitHub<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.82051;0.82551;0.84103;0.84615;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.84615;0.85115;0.86667;0.87179;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">NuGet<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.84615;0.85115;0.86667;0.87179;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.87179;0.87679;0.89231;0.89744;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Swagger / OpenAPI<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.87179;0.87679;0.89231;0.89744;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.89744;0.90244;0.91795;0.92308;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">JWT Authentication<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.89744;0.90244;0.91795;0.92308;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.92308;0.92808;0.94359;0.94872;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">Background Jobs<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.92308;0.92808;0.94359;0.94872;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.94872;0.95372;0.96923;0.97436;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">gRPC<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.94872;0.95372;0.96923;0.97436;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+    <g><animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -14;0 14" keyTimes="0;0.97436;0.97936;0.99487;1;1" dur="100s" repeatCount="indefinite"/><text x="400" y="138" opacity="0">CI/CD<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.97436;0.97936;0.99487;1;1" dur="100s" repeatCount="indefinite"/></text></g>
+
+  </g>
+</svg>
